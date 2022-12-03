@@ -4,6 +4,9 @@ A Shopping Website created for my 1st Year 2nd Semester Project using PHP as wel
 
 by, 
 Devindu Samarasinghe IT21003332
-Minod Rashmika 
+
+Minod Rashmika
+
 Chanukya Serasinghe
+
 Dilshan Rathnayake
